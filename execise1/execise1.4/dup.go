@@ -1,5 +1,5 @@
 package main
-
+// print the file name of dup lines
 import (
 	"bufio"
 	"fmt"
